@@ -10,6 +10,8 @@ ESTRUCTURA BÁSICA DEL DOCUMENTO HTML
 
 - **meta**: Para que el navegador interprete los caracteres que se van añadiendo.
 
+- **title**: Nombre de la pestaña del documento.
+
 - **body**: Parte visual del documento.
 
 - **strong**: Marcamos el texto seleccionado en negrita.
