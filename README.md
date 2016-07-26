@@ -10,6 +10,9 @@ ESTRUCTURA BÁSICA DEL DOCUMENTO HTML
 
 - **body**: Parte visual del documento.
 
+- **strong**: Marcamos el texto seleccionado en negrita.
+
+
 
 
 
