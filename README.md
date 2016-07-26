@@ -7,7 +7,7 @@ ESTRUCTURA BÁSICA DEL DOCUMENTO HTML
 - **html**: Definimos el tipo de estructura del documento.
 
 - **head**: Etiqueta que se ocupa de la codificación y de todas las tareas abstractas del documento.
-- 
+
 - **meta**: Para que el navegador interprete los caracteres que se van añadiendo.
 
 - **body**: Parte visual del documento.
