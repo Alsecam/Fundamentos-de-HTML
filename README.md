@@ -16,6 +16,8 @@ ESTRUCTURA BÁSICA DEL DOCUMENTO HTML
 
 - **strong**: Marcamos el texto seleccionado en negrita.
 
+ESTILOS DE CSS EN HTML
+
 
 
 
